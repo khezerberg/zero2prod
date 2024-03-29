@@ -1,3 +1,3 @@
 fn main() {
-    println!("first cargo project");
+    println!("cargo project");
 }
